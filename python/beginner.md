@@ -45,6 +45,7 @@ D. Typage manuel uniquement
 
 **Bonne réponse :** B. Typage dynamique  
 **Explication :** Python détermine les types à l'exécution, ce qu'on appelle le typage dynamique.
+[source](https://www.docstring.fr/blog/le-typage-en-python/)
 
 ---
 
@@ -56,7 +57,8 @@ C. /*
 D. --  
 
 **Bonne réponse :** B. #  
-**Explication :** Un symbole dièse commence un commentaire sur une seule ligne en Python. [web:3]
+**Explication :** Un symbole dièse commence un commentaire sur une seule ligne en Python. 
+[source](https://www.docstring.fr/formations/faq/affichage/comment-puis-je-ecrire-un-commentaire-en-python/)
 
 ---
 
@@ -82,6 +84,7 @@ D. .pyt
 
 **Bonne réponse :** B. .py  
 **Explication :** Les fichiers source Python utilisent couramment l'extension `.py`.
+[source](https://gayerie.dev/docs/python/python3/execution.html#les-fichiers-sources)
 
 ---
 
@@ -134,7 +137,7 @@ D. new
 
 **Bonne réponse :** B. class  
 **Explication :** Python utilise le mot-clé `class` pour définir une classe.
-
+[source](https://www.docstring.fr/formations/faq/oriente-objet/comment-creer-une-classe-et-des-objets-en-python/#:~:text=Pour%20d%C3%A9finir%20une%20classe%2C%20on,m%C3%A9thodes%20d%C3%A9finies%20dans%20la%20classe.)
 ---
 
 ## 12. Quel opérateur vérifie l'égalité ?
@@ -146,6 +149,7 @@ D. >=
 
 **Bonne réponse :** B. ==  
 **Explication :** `==` compare deux valeurs pour l'égalité. `=` est utilisé pour l'affectation.
+[source](https://www.docstring.fr/glossaire/is/#:~:text=L'op%C3%A9rateur%20d'%C3%A9galit%C3%A9%20en,leur%20valeur%20est%20toujours%20%C3%A9gale.)
 
 ---
 
@@ -157,7 +161,8 @@ C. NameError
 D. ValueError  
 
 **Bonne réponse :** C. NameError  
-**Explication :** Python lève `NameError` lorsqu'une variable ou un nom est manquant. [web:3]
+**Explication :** Python lève `NameError` lorsqu'une variable ou un nom est manquant.
+[source](https://docs.python.org/fr/3/library/exceptions.html#NameError)
 
 ---
 
@@ -183,6 +188,7 @@ D. <1, 2, 3>
 
 **Bonne réponse :** B. [1, 2, 3]  
 **Explication :** Les crochets créent une liste en Python.
+[source](https://www.docstring.fr/glossaire/liste/)
 
 ---
 
@@ -208,6 +214,7 @@ D. total()
 
 **Bonne réponse :** C. len()  
 **Explication :** `len()` renvoie le nombre d'éléments dans une séquence ou un conteneur.
+[source](https://docs.python.org/3/library/functions.html#len)
 
 ---
 
@@ -220,7 +227,7 @@ D. load
 
 **Bonne réponse :** B. import  
 **Explication :** Python utilise `import` pour charger des modules.
-
+[source](https://docs.python.org/3/reference/import.html)
 ---
 
 ## 19. Comment les blocs de code sont-ils définis en Python ?
@@ -232,6 +239,7 @@ D. Points-virgules uniquement
 
 **Bonne réponse :** C. Indentation  
 **Explication :** Python utilise l'indentation pour définir les blocs de code au lieu d'accolades.
+[source](https://peps.python.org/pep-0008/#indentation)
 
 ---
 
@@ -244,3 +252,4 @@ D. Formater automatiquement le code
 
 **Bonne réponse :** B. Installer des packages Python  
 **Explication :** `pip` est utilisé pour installer et gérer les packages Python, souvent en combinaison avec des environnements virtuels.
+[source](https://docs.python.org/3/installing/index.html)
